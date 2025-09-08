@@ -37,11 +37,11 @@ The dashboard provides clear business insights such as Sales, Profit, Quantity, 
 ## 🚀 How to Use
 1. Clone this repository or download the .pbix file.  
 2. Open in *Power BI Desktop*.  
-3. Explore and interact with the visuals.  
+3. Explore and interact with the visuals.        
 
 ---
 
 ## 🔗 Connect with Me
-If you have any suggestions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/).  
+If you have any suggestions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akarshdwivedi/).  
 
 ---
